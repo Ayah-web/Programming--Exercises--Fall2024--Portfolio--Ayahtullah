@@ -1,4 +1,6 @@
 # exercise ten, is it even?
+
+# asks user input
 number = int(input("Please enter a number in order to find out whether it is even or odd:"))
 
 if number % 2 == 0:
